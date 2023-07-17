@@ -1,0 +1,59 @@
+@media (max-width: 375px) {
+    body {
+        background-image: url(../img/pattern-background-mobile.svg);
+        background-repeat: no-repeat;
+        background-position: top;
+    }
+
+    main {
+        margin-top: 71px;
+        margin-bottom: 71px;
+        width: 327px;
+    }
+
+    .illustration-hero {
+        width: 327px;
+        height: 160px;
+    }
+
+    h1 {
+        width: 263px;
+        height: 29px;
+        padding-top: 32px;
+    }
+
+    p {
+        width: 263px;
+        height: 75px;
+        padding-top: 16px;
+    }
+
+    .div1 {
+        width: 247px;
+        height: 48px;
+    }
+
+    .h2-3 {
+        padding-left: 50px;
+    }
+
+    .div3 {
+        width: 279px;
+        height: 50px;
+    }
+
+    .h2-3 {
+        width: 150px;
+        height: 20px;
+        font-size: 15px;
+    }
+
+    .h2-4 {
+        padding: 15px 64px;
+    }
+
+    .h2-5 {
+        padding-top: 24px;
+        padding-bottom: 32px;
+    }
+}
